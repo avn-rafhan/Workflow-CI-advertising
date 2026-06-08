@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual environments
+env2/
+mlrus/
+
+# Logs and test reports
+*.log
+*.out
+*.err
+*.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
