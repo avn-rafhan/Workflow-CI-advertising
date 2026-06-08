@@ -6,7 +6,9 @@ __pycache__/
 
 # Virtual environments
 env2/
-mlrus/
+
+# Folders
+mlruns/
 
 # Logs and test reports
 *.log
