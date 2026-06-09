@@ -38,7 +38,7 @@ jobs:
 
       - name: Run MLflow project
         run: |
-          mlflow run ./MLproject \
+          mlflow run MLproject \
             --experiment-name "CI-Automated-Runs" \
             --env-manager=conda
 
